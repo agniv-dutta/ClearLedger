@@ -1,0 +1,10 @@
+.local/
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
+START_HERE.md
+SUBMISSION_TEMPLATE.md
+BUSINESS_RULES.md
